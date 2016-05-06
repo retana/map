@@ -170,7 +170,8 @@
             }
         });
         $('#example1 tbody').on( 'click', 'tr', function () {
-            console.log( table.row( this ).data() );
+            var data=table.row( this ).data();
+            window.location.href = "localizate.php?idTour="+data[0];
         } );
     });
 </script>

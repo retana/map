@@ -7,7 +7,7 @@
     <meta name="description"
           content="Get Google Maps Driving Directions to plan your route or calculate your itinerary from GPS coordinates or addresses. Unlimited multiple stops or destinations.">
 
-    <title>Google Maps Driving Directions | Route Planner</title>
+    <title>Tour</title>
 
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css"/>
     <link rel="stylesheet" href="css/itilogstyle.css" type="text/css"/>
